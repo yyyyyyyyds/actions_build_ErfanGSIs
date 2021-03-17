@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://cloud189-xizang-person.oos-xzls.ctyunapi.cn/247d215c-9679-40dd-9585-9ec6fcbac075.zip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=532482dfdc85e5d60592&x-amz-limitrate=10240&x-amz-UID=783827947&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22EvolutionX_5.4_sakura-11-20210221-1052-UNOFFICIAL.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&Signature=A175nGd8Y%2BAEESBCkW4fY8PMLrE%3D&x-amz-SHID=171329063&Expires=1615951480&x-amz-FSIZE=1595541116&x-amz-UFID=51414212747391780
-  ROM_NAME: Generic
+  ROM_URL: https://jaist.dl.sourceforge.net/project/revengeos/vince/RevengeOS-4.0-R-OFFICIAL-vince-20210305-1239.zip  
+  ROM_NAME: RevengeOS
   TZ: Asia/Shanghai
 
 jobs:
