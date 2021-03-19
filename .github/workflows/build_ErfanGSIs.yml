@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/20.3.26/miui_PYXIS_20.3.26_857cc8af87_10.0.zip  
-  ROM_NAME: miui_PYXIS_20.3.26_857cc8af87_10.0
+  ROM_URL: https://media-sxjz-person.sxoss.xstore.ctyun.cn/PERSONCLOUD/07f9115c-8312-4190-9f86-4e8c40352a12.zip?x-amz-CLIENTTYPEIN=UNKNOWN&AWSAccessKeyId=B12spNbFIkHcJjk5MvKN&x-amz-limitrate=10240&x-amz-UID=783827947&x-amz-APPID=828221&response-content-disposition=attachment%3Bfilename%3D%22Paper_MI6_MIUI12.5-r9_4db693e8_11.0.zip%22&x-amz-CLIENTNETWORK=UNKNOWN&x-amz-CLOUDTYPEIN=PERSON&Signature=STcNoKxkA630XNJoSW6cviWG1yE%3D&x-amz-SHID=171513946&Expires=1616164454&x-amz-FSIZE=1527262074&x-amz-UFID=71399112896302996  
+  ROM_NAME: miui
   TZ: Asia/Shanghai
 
 jobs:
