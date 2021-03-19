@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/V11.0.5.0.QFKCNXM/miui_RAPHAEL_V11.0.5.0.QFKCNXM_63e2e08c69_10.0.zip  
+  ROM_URL: https://bigota.d.miui.com/20.3.26/miui_PYXIS_20.3.26_857cc8af87_10.0.zip  
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
