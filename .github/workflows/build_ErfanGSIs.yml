@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://bigota.d.miui.com/20.3.26/miui_PYXIS_20.3.26_857cc8af87_10.0.zip  
-  ROM_NAME: MIUI
+  ROM_NAME: miui_PYXIS_20.3.26_857cc8af87_10.0
   TZ: Asia/Shanghai
 
 jobs:
